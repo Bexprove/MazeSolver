@@ -7,13 +7,13 @@ This project demonstrates real-time image processing and robotic path execution 
 
 ### Workspace Setup
 
-![Workspace Setup](./Images/workspace.jpg)
+![Workspace Setup](./Images/Workspace.png)
 
 ---
 
 ### Maze Solution Execution
 
-![Maze Solution](./Images/maze_solution.jpg)
+![Maze Solution](./Images/Maze_Solution.png)
 
 > The robot identifies the maze path using camera vision and solves it autonomously.
 

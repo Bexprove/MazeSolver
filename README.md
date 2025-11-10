@@ -21,7 +21,7 @@ This project demonstrates real-time image processing and robotic path execution 
 
 ### Demo Video
 
-[![Watch Demo](https://img.icons8.com/fluency/96/youtube-play.png)](./Video/final_output.mp4)
+[![Watch Demo](https://img.icons8.com/fluency/96/youtube-play.png)](https://youtube.com/shorts/CsbB0oZhfWE?feature=share)
 
 
 ---
